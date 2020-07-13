@@ -1,8 +1,12 @@
-# strong-name
+| README.md |
+|:---|
 
-## augustoproiete.snk
+<h1 align="center">augustoproiete.snk :key:</h1>
+<div align="center">
 
 Strong Name Key Pair used to sign assemblies of my open-source projects
+
+</div>
 
 ### Public key (hash algorithm: sha1):
 ```
@@ -41,4 +45,4 @@ e9f30f7a3d1ee0f9
 
 ---
 
-_Copyright &copy; 2019 C. Augusto Proiete & Contributors - Provided under the [Apache License, Version 2.0](http://apache.org/licenses/LICENSE-2.0.html)._
+_Copyright &copy; 2019-2020 C. Augusto Proiete & Contributors - Provided under the [Apache License, Version 2.0](http://apache.org/licenses/LICENSE-2.0.html)._
