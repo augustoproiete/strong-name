@@ -55,4 +55,4 @@ e9f30f7a3d1ee0f9
 
 ---
 
-_Copyright &copy; 2019-2021 C. Augusto Proiete & Contributors - Provided under the [Apache License, Version 2.0](LICENSE)._
+_Copyright &copy; 2019-2023 C. Augusto Proiete & Contributors - Provided under the [Apache License, Version 2.0](LICENSE)._
